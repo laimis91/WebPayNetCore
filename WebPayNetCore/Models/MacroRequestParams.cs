@@ -45,7 +45,7 @@ namespace WebPayNetCore.Models
         public string Language { get; set; }
 
         [ParameterName("amount")]
-        public int? Amount { get; set; }
+        public double? Amount { get; set; }
 
         [ParameterName("currency")]
         public string Currency { get; set; }

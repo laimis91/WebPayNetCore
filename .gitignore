@@ -3,3 +3,6 @@
 /.vs/WebPayNetCore/v15/Server/sqlite3/storage.ide
 /.vs/WebPayNetCore/v15/Server/sqlite3/storage.ide-shm
 /.vs/WebPayNetCore/v15/Server/sqlite3/storage.ide-wal
+/.idea/.idea.WebPayNetCore/.idea
+/.vs
+/.idea/.idea.WebPayNetCore
